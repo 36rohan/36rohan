@@ -20,7 +20,7 @@
 ###
 
 <div align="left">
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohanlamain@gmail.com)](mailto:rohanlamain@gmail.com)
+-🔭 I’m currently working on something.
 </div>
 
 <div align="center">
