@@ -24,12 +24,5 @@
 -🔭 I’m currently working on something.
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/36rohan/count.svg?"  />
-</div>
-
-###
-
-###
 <br clear="both">
 
